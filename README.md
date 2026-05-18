@@ -64,7 +64,7 @@ e4 = @(t) 120 * sin(2*pi*50*t);            % 50 Hz sine
 │   ├── czesc3.m       # Part 3 — Energy & average power integration
 │   └── czesc4.m       # Part 4 — Frequency root-finding
 ├── docs/
-│   └── Raport.pdf     # Full experiment report with plots and analysis
+│   └── Raport_Bartosz_Kalinowski.pdf     # Full experiment report with plots and analysis
 ├── .gitignore
 └── README.md
 ```
@@ -221,7 +221,7 @@ Each script is self-contained (`clear; close all` at the top).
 ## Report
 
 Full experiment report with all figures, result tables, and analysis
-available in [`Raport.pdf`](Raport.pdf).
+available in [`Raport_Bartosz_Kalinowski.pdf`](docs/Raport_Bartosz_Kalinowski.pdf).
 
 ---
 
