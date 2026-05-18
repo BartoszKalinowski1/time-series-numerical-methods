@@ -55,13 +55,16 @@ e4 = @(t) 120 * sin(2*pi*50*t);            % 50 Hz sine
 ---
 
 ## Repository Structure
+
+```
 .
-├── czesc1.m        # Part 1 — ODE solvers (Euler & Improved Euler)
-├── czesc2.m        # Part 2 — Nonlinear inductance interpolation
-├── czesc3.m        # Part 3 — Energy & average power integration
-├── czesc4.m        # Part 4 — Frequency root-finding
-├── Raport.pdf      # Full experiment report with plots and analysis
+├── czesc1.m       # Part 1 — ODE solvers (Euler & Improved Euler)
+├── czesc2.m       # Part 2 — Nonlinear inductance interpolation
+├── czesc3.m       # Part 3 — Energy & average power integration
+├── czesc4.m       # Part 4 — Frequency root-finding
+├── Raport.pdf     # Full experiment report with plots and analysis
 └── README.md
+```
 
 ---
 
